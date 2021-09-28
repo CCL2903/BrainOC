@@ -1,2 +1,4 @@
 # BrainOC
-64 bits OS
+BrainOC free  x86-64 OS written by Assembly, C.
+
+## Заголовок 2
