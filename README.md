@@ -7,6 +7,7 @@ Read [Documentation](https://brainos.tk)
 Download [ISO-File](https://brainos.tk/download/)
 ## Relase and Version
 Version: 1.0.1 (build 98)
+
 Release: 30.09.21
 ____
 
@@ -21,4 +22,5 @@ BrainOC бесплатная x86-64 операционная система на
 
 ## Релиз и Версия
 Версия: 1.0.1 (build 98)
+
 Релиз: 30.09.21
